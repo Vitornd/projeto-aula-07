@@ -3,8 +3,8 @@ Exemplos tutorial git - Aula 07
 """
 
 
-def say_hello(a, b):
-    print(f"Oi! Eu me chamo {a} e tenho {b} anos.")
+def say_hello(name, age):
+    print(f"Oi! Eu me chamo {name} e tenho {age} anos.")
 
 
 say_hello("Fabio", 29)
